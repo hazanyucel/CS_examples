@@ -1,0 +1,10 @@
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\bin\Debug\binarysayi.exe.config
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\bin\Debug\binarysayi.exe
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\bin\Debug\binarysayi.pdb
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.csproj.AssemblyReference.cache
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.Form1.resources
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.Properties.Resources.resources
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.csproj.GenerateResource.cache
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.csproj.CoreCompileInputs.cache
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.exe
+C:\Users\Hazan\source\repos\binarysayi\binarysayi\obj\Debug\binarysayi.pdb
