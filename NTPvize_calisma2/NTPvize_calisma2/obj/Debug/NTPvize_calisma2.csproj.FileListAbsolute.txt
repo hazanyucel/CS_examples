@@ -1,0 +1,7 @@
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\bin\Debug\NTPvize_calisma2.exe.config
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\bin\Debug\NTPvize_calisma2.exe
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\bin\Debug\NTPvize_calisma2.pdb
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\obj\Debug\NTPvize_calisma2.csproj.AssemblyReference.cache
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\obj\Debug\NTPvize_calisma2.csproj.CoreCompileInputs.cache
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\obj\Debug\NTPvize_calisma2.exe
+C:\Users\Hazan\source\repos\NTPvize_calisma2\NTPvize_calisma2\obj\Debug\NTPvize_calisma2.pdb
